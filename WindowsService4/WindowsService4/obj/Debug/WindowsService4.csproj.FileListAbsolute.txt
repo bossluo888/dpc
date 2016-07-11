@@ -1,0 +1,11 @@
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\bin\Debug\WindowsService4.exe.config
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\bin\Debug\WindowsService4.exe
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\bin\Debug\WindowsService4.pdb
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\obj\Debug\WindowsService4.csprojResolveAssemblyReference.cache
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\obj\Debug\WindowsService4.ProjectInstaller.resources
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\obj\Debug\WindowsService4.csproj.GenerateResource.Cache
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\obj\Debug\WindowsService4.exe
+c:\users\watercosmos\documents\visual studio 2013\Projects\WindowsService4\WindowsService4\obj\Debug\WindowsService4.pdb
+C:\Users\Administrator\Desktop\dpc\WindowsService4\WindowsService4\bin\Debug\WindowsService4.exe.config
+C:\Users\Administrator\Desktop\dpc\WindowsService4\WindowsService4\obj\Debug\WindowsService4.exe
+C:\Users\Administrator\Desktop\dpc\WindowsService4\WindowsService4\obj\Debug\WindowsService4.pdb
